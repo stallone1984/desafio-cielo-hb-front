@@ -10,9 +10,7 @@ angular.module('extratoLancamento', [
   'ngResource',
   'ngRoute',
   'ngSanitize',
-  'ngToast',
-  'ngAnimate',
-  'ngFileUpload'
+  'ngToast'
 ]);
 
 angular.module('extratoLancamento.utils', []);
